@@ -1,4 +1,4 @@
-Here's the `README.md` content for your **Sum All Numbers from 1 to N** program:
+
 
 ---
 
